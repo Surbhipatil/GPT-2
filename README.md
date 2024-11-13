@@ -2,7 +2,7 @@
 
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Surbhipatil/GPT-2/blob/main/1695718765348.png)
 
 ## Overview
 
